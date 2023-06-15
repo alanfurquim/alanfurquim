@@ -4,7 +4,7 @@
   
   •🌎 Brazilian developer
   
-  •🎯 Aiming to be a data scientist
+  •🎯 Aiming to be a data engineer
   
   •🤹🏻‍♂️ Main skills:
     
