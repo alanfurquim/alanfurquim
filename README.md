@@ -4,13 +4,13 @@
   
   •🌎 Brazilian developer
   
-  •🎯 Aiming to be a data engineer
+  •🎯 Aiming to be a back end developer
   
   •🤹🏻‍♂️ Main skills:
     
   -Python
   
-  -Dashboards
+  -RPA
   
   -Databases
 <!---
