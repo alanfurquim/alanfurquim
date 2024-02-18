@@ -1,6 +1,6 @@
   <font size=5>**Hi there** 👋
 
-  •🙋🏻 My name is Alan
+  •🙋🏻 My name is Alan, I am currently a mid level developer working with python. My main activities include creating RPA scripts and SQL querys.
   
   •🌎 Brazilian developer
   
