@@ -1,18 +1,16 @@
   <font size=5>**Hi there** 👋
 
-  •🙋🏻 My name is Alan, I am currently a mid level developer working with python. My main activities include creating RPA scripts and SQL querys.
-  
+  •🙋🏻 My name is Alan!
+     
   •🌎 Brazilian developer
+
+  •📅 Almost 4 years of professional experience;
   
-  •🎯 Aiming to be a back end developer
+  •🐍 Currently developing RPA systems using **Python**;
   
-  •🤹🏻‍♂️ Main skills:
-    
-  -Python
+  •💬 Great knowledge with **SQL** and low code RPA platforms;
   
-  -RPA
-  
-  -Databases
+  •💲 Experience automating financial and logistical processes.
 <!---
 alanfurquim/alanfurquim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
