@@ -4,7 +4,7 @@
      
   •🌎 Brazilian developer
 
-  •📅 4+ years of professional experience;
+  •📅 5+ years of professional experience;
   
   •🐍 Currently developing RPA systems using **Python**;
   
